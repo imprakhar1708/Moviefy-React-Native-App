@@ -37,4 +37,10 @@
 ## Screenshots
   
 - Android
+
+<img src="https://user-images.githubusercontent.com/114819970/217838932-fea13be6-36e9-45d4-bf57-88bc6ddb7c8a.jpg" width="20%">    <img src="https://user-images.githubusercontent.com/114819970/217838948-6db0ff60-19ee-4b45-91f9-da1309a5b4c9.jpg" width="20%">     <img src="https://user-images.githubusercontent.com/114819970/217838955-592343db-2571-40b0-bd84-6c665806207a.jpg" width="20%">     <img src="https://user-images.githubusercontent.com/114819970/217838959-4738aa4f-bef1-492e-bb48-a496a5ba6e72.jpg" width="20%">     <img src="https://user-images.githubusercontent.com/114819970/217838968-5e38a0a2-4e6d-4ae0-960a-397bb6aba52b.jpg" width="20%">     <img src="https://user-images.githubusercontent.com/114819970/217838978-12bef9d2-082c-4b6b-a571-e617f04127cc.jpg" width="20%">     <img src="https://user-images.githubusercontent.com/114819970/217838991-488c16d3-dba9-4eb5-898e-a7847a4e35d4.jpg" width="20%">     <img src="https://user-images.githubusercontent.com/114819970/217838998-c36fb79c-f3b3-4564-b71d-8e67c5941c3a.jpg" width="20%">     <img src="https://user-images.githubusercontent.com/114819970/217839008-751c1d94-cb59-4fa7-a47a-fdcc0854e7f3.jpg" width="20%">     <img src="https://user-images.githubusercontent.com/114819970/217839023-b769faec-1901-4edb-931b-d023eed4ec7c.jpg" width="20%">
+
+-iOS
+
+
   
