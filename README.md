@@ -32,6 +32,12 @@
   - Sign in to expo and the project will appear in the app.
   - Or point your phone's camera at the QR code in the terminal (press "c" to view it).
   
+## Demo Video
+
+
+https://user-images.githubusercontent.com/114819970/221273518-7e60710b-fd4e-41be-8bc3-c8a9b79f86f7.mp4
+
+
 ## Screenshots
   
 - ## Android
